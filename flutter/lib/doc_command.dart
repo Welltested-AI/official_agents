@@ -13,7 +13,7 @@ class DocCommand extends Command {
   final userQuery = StringInput('Your query', optional: false);
 
   @override
-  String get slug => '/doc';
+  String get slug => 'doc';
 
   @override
   String get intent => 'Your Flutter doc expert';
@@ -37,7 +37,17 @@ class DocCommand extends Command {
           output: matchingDocuments),
       PromptQueryStep(
         prompt:
-            '''You are an Flutter expert who answers user's queries related to the framework. \n\n Please find the user query <Query> and relavant references <References> picked from the Flutter docs to assist you: \n\n Query: $userQuery, \nReferences: $matchingDocuments. Please respond to the user's query!''',
+            '''You are an Flutter expert who answers user's queries related to the framework.
+            
+            Please find the user query <Query> and relavant references <References> picked from the Flutter docs to assist you: 
+            
+            Query: $userQuery
+            
+            References: 
+            $matchingDocuments.
+            
+            Please respond to the user's query!
+           **Note**: Please be specific and concise to the user's query and minimise prose''',
         promptOutput: promptOutput,
       ),
       AppendToChatStep(
