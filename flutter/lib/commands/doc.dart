@@ -10,17 +10,17 @@ class DocCommand extends Command {
   final DataSource docsSource;
 
   /// Inputs
-  final userQuery = StringInput('Your query', optional: false);
+  final userQuery = StringInput('Query', optional: false);
 
   @override
   String get slug => 'doc';
 
   @override
-  String get intent => 'Your Flutter doc expert';
+  String get intent => 'Ask across Flutter docs';
 
   @override
   String get textFieldLayout =>
-      "Hi, I'm here to help you with core flutter queries. Let me know your question: $userQuery";
+      "Hi! Ask me anything from Flutter docs: $userQuery";
 
   @override
   List<DashInput> get registerInputs => [userQuery];
@@ -44,15 +44,14 @@ class DocCommand extends Command {
             Query: $userQuery
             
             References: 
-            $matchingDocuments.
+            $matchingDocuments
             
-            Please respond to the user's query!
-           **Note**: Please be specific and concise to the user's query and minimise prose''',
+            Note: 
+            1. If the references don't address the question, state that "I couldn't fetch your answer from the doc sources, but I'll try to answer from my own knowledge".
+            2. Be truthful, complete and on point with your responses and include code snippets wherever required.''',
         promptOutput: promptOutput,
       ),
-      AppendToChatStep(
-          value:
-              '$promptOutput')
+      AppendToChatStep(value: '$promptOutput')
     ];
   }
 }

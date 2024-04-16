@@ -1,9 +1,9 @@
 import 'package:dash_agent/data/datasource.dart';
 import 'package:dash_agent/configuration/command.dart';
 import 'package:dash_agent/configuration/dash_agent.dart';
+import 'package:flutter/commands/doc.dart';
 
-import 'doc_command.dart';
-import 'data_sources.dart';
+import 'sources.dart';
 
 /// Your agent configurations
 class FlutterAgent extends AgentConfiguration {
