@@ -3,8 +3,8 @@ import 'package:dash_agent/steps/steps.dart';
 import 'package:dash_agent/variables/dash_input.dart';
 import 'package:dash_agent/variables/dash_output.dart';
 
-class WidgetTestCommand extends Command {
-  WidgetTestCommand();
+class WidgetCommand extends Command {
+  WidgetCommand();
 
   /// Inputs
   final extraDetails = StringInput('Additional Details', optional: true);
@@ -39,7 +39,7 @@ void main() {
 
   @override
   String get textFieldLayout =>
-      "Hi, please share the code and any other optional instructions to be following while generating widget test. \nCode: $codeAttachment \nAdditional Details[Optional] $extraDetails \nReference 1[Optional]: $reference1 \nReference 2[Optional]: $reference2 \nReference 3[Optional]: $reference3";
+      "Hi, I'm here to help you generate widget tests for your codebase. Please share the following info: $codeAttachment \n $extraDetails \nReferences [Optional]: $reference1 $reference2 $reference3";
 
   @override
   List<DashInput> get registerInputs =>
@@ -80,8 +80,8 @@ $widgetTestTemplate
 ```
 
 Additioanl things to keep in mind:
-1. Include inline comments for improving code readability
-2. State any assumption made while creating widget tests
+1. Include inline comments for improving code readability.
+2. State any assumption made or libraries used while creating widget tests.
             ''',
         promptOutput: promptOutput,
       ),

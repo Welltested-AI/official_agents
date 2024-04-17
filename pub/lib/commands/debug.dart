@@ -10,8 +10,8 @@ class DebugCommand extends Command {
   final DataSource docsSource;
 
   /// Inputs
-  final userIntention = StringInput('Your query', optional: false);
-  final errorDetails = StringInput('Error Detail', optional: true);
+  final userIntention = StringInput('Query', optional: false);
+  final errorDetails = StringInput('Error', optional: true);
   final codeInput = CodeInput('Relevant code', optional: true);
 
   @override
@@ -22,7 +22,7 @@ class DebugCommand extends Command {
 
   @override
   String get textFieldLayout =>
-      "Hi, please state your intention of using package, share any error details, and provide relevant code for debugging assistance: $userIntention $errorDetails $codeInput";
+      "Hi, I am here to help you debug your package implementation. Please share the following info: $userIntention $errorDetails $codeInput";
 
   @override
   List<DashInput> get registerInputs =>
@@ -41,19 +41,29 @@ class DebugCommand extends Command {
       PromptQueryStep(
         prompt:
             '''You are an Flutter expert who helps devs in implementation of flutter/dart packages based on their project need.
-            
-            Please find the user user intention <Intention>, error detail <Error Faced>, and relavant code from project <Relevant Code>: 
-            
-            Intention: $userIntention
-            Error Faced: $errorDetails
-            Relevant Code: $codeInput
 
-            Finally, also find the relavant references <References> picked from the Flutter pub.dev for you to help in assisting.
-            References: 
-            $matchingDocuments.
-            
-            Now, respond to the user's query!
-           **Note**: Please be specific and concise to the user's query and minimise prose''',
+              Please find the user intention <Intention>, error detail <Error Faced>, and relavant code from project <Relevant Code>: 
+
+              Intention: $userIntention
+
+              Error Encointered: 
+              $errorDetails
+
+              Relevant Code: 
+              ```
+              $codeInput
+              ```
+
+              Finally, also find the relavant references <References> picked from the Flutter pub.dev to assist you.
+
+              References: 
+              $matchingDocuments.
+
+              Note: 
+              1. Be specific and concise to the user's query and minimise prose until unless explicitly stated in the <Intention> provided by the user
+              2. Be truthful with your response and include code snippets or example whenever required.
+              3. If the references don't address the question, state that "I couldn't fetch your answer from the doc sources, but I'll try to answer from my own knowledge"
+           ''',
         promptOutput: promptOutput,
       ),
       AppendToChatStep(value: '$promptOutput')

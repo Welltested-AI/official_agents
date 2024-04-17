@@ -10,7 +10,7 @@ class SearchCommand extends Command {
   final DataSource docsSource;
 
   /// Inputs
-  final userQuery = StringInput('Your query', optional: false);
+  final userQuery = StringInput('Requirement', optional: false);
 
   @override
   String get slug => 'search';
@@ -38,16 +38,19 @@ class SearchCommand extends Command {
       PromptQueryStep(
         prompt:
             '''You are an Flutter expert who helps user's find right flutter/dart packages based on their project need.
-            
+
             Please find the user query <Query> and relavant references <References> picked from the Flutter pub.dev: 
-            
+
             Query: $userQuery
-            
+
             References: 
             $matchingDocuments.
-            
-            Now, respond to the user's query!
-           **Note**: Please be specific and concise to the user's query and minimise prose''',
+                        
+            Note: 
+            1. Be specific and concise to the user's query and minimise prose until unless explicitly stated in the <Intention> provided by the user
+            2. Be truthful with your response and include code snippets or example whenever required.
+            3. If the references don't address the question, state that "I couldn't fetch your answer from the doc sources, but I'll try to answer from my own knowledge"
+            ''',
         promptOutput: promptOutput,
       ),
       AppendToChatStep(value: '$promptOutput')
