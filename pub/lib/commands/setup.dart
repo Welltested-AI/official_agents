@@ -11,6 +11,7 @@ class SetupCommand extends Command {
 
   /// Inputs
   final userIntention = StringInput('Intention', optional: false);
+  final packageName = StringInput('Package', optional: false);
   final codeInput = CodeInput('Relevant code', optional: true);
 
   @override
@@ -21,11 +22,10 @@ class SetupCommand extends Command {
 
   @override
   String get textFieldLayout =>
-      "Hi, please state your intention of using package, and provide relevant code (if any) that is relevant to package implemtation: $userIntention $codeInput";
+      "Hi, please state your intention of using package, and provide relevant code (if any) that is relevant to package implemtation: $packageName $userIntention $codeInput";
 
   @override
-  List<DashInput> get registerInputs =>
-      [userIntention, codeInput];
+  List<DashInput> get registerInputs => [packageName, userIntention, codeInput];
 
   @override
   List<Step> get steps {
@@ -34,7 +34,7 @@ class SetupCommand extends Command {
     final promptOutput = PromptOutput();
     return [
       MatchDocumentStep(
-          query: '$userIntention',
+          query: 'Package Name: $packageName - $userIntention',
           dataSources: [docsSource],
           output: matchingDocuments),
       PromptQueryStep(
@@ -63,7 +63,8 @@ class SetupCommand extends Command {
             3. If the references don't address the question, state that "I couldn't fetch your answer from the doc sources, but I'll try to answer from my own knowledge"''',
         promptOutput: promptOutput,
       ),
-      AppendToChatStep(value: 'Intetntion $userIntention \n\nImplementation:$promptOutput')
+      AppendToChatStep(
+          value: 'Intetntion $userIntention \n\nImplementation:$promptOutput')
     ];
   }
 }

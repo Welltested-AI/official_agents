@@ -1,7 +1,6 @@
 import 'package:dash_agent/data/datasource.dart';
 import 'package:dash_agent/configuration/command.dart';
 import 'package:dash_agent/configuration/dash_agent.dart';
-import 'package:pub/commands/debug.dart';
 import 'package:pub/commands/setup.dart';
 
 import 'commands/search.dart';
@@ -21,7 +20,6 @@ class PubAgent extends AgentConfiguration {
   @override
   List<Command> get registerSupportedCommands => [
         SearchCommand(docsSource: docsSource),
-        DebugCommand(docsSource: docsSource),
         SetupCommand(docsSource: docsSource)
       ];
 }
