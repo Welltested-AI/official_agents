@@ -28,9 +28,11 @@ class QueryCommand extends Command {
       WorkspaceQueryStep(query: '$userQuery', output: matchingCode),
       PromptQueryStep(
         prompt: '''Here are the related references from user's project:
-            $matchingCode. 
+            ```
+            $matchingCode
+            ```
             
-            Answer the user's query. 
+            Answer the user's query <Query> based on the reference shared above.
             Query: $userQuery.''',
         promptOutput: promptOutput,
       ),

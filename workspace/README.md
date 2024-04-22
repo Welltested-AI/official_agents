@@ -1,3 +1,5 @@
-# Agent Reamde File
+# Workspace Agent
 
-This is a sample readme file for agent. You add description about the agent and any other instruction or information.
+Supported commmands at moment:
+
+- `query` - Answer to queries related to your project.
