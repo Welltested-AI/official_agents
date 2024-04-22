@@ -1,6 +1,7 @@
 import 'package:dash_agent/data/datasource.dart';
 import 'package:dash_agent/configuration/command.dart';
 import 'package:dash_agent/configuration/dash_agent.dart';
+import 'package:test/commands/integration.dart';
 
 import 'commands/unit.dart';
 import 'commands/widget.dart';
@@ -12,5 +13,5 @@ class TestAgent extends AgentConfiguration {
 
   @override
   List<Command> get registerSupportedCommands =>
-      [UnitCommand(), WidgetCommand()];
+      [UnitCommand(), WidgetCommand(), IntegrationCommand()];
 }

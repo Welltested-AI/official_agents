@@ -6,3 +6,7 @@
 
 - Udpated unit test and widget test template prompt
 - Included more references that can be added
+
+## 1.2.0
+
+- Added Integration Command
