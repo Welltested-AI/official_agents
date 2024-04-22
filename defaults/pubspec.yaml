@@ -1,0 +1,16 @@
+name: defaults
+description: Default agents provided by CommandDash
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.3
+
+# Add regular dependencies here.
+dependencies:
+  dash_agent:
+    path: /Users/yogesh/Development/org.welltested/commanddash/dash_agent
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
