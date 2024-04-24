@@ -1,0 +1,10 @@
+import 'package:dash_agent/dash_agent.dart';
+import 'package:defaults/agent.dart';
+
+import 'package:test/test.dart';
+
+void main() {
+  test('adds one to input values', () async {
+    await processAgent(DefaultAgent());
+  });
+}

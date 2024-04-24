@@ -1,18 +1,16 @@
 import 'package:dash_agent/data/datasource.dart';
 import 'package:dash_agent/configuration/command.dart';
 import 'package:dash_agent/configuration/dash_agent.dart';
-import 'package:flutter/commands/doc.dart';
+import 'package:defaults/commands/document.dart';
+import 'package:defaults/commands/refactor.dart';
 
-import 'data_source.dart';
 
 /// Your agent configurations
-class FlutterAgent extends AgentConfiguration {
-  final docsSource = DocsDataSource();
-
+class DefaultAgent extends AgentConfiguration {
   @override
-  List<DataSource> get registeredDataSources => [docsSource];
+  List<DataSource> get registeredDataSources => [];
 
   @override
   List<Command> get registerSupportedCommands =>
-      [DocCommand(docsSource: docsSource)];
+      [DocumentCommand(), RefactorCommand()];
 }

@@ -1,5 +1,5 @@
-name: pub
-description: Get help related to flutter/dart packages.
+name: defaults
+description: Default agents provided by CommandDash
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
@@ -10,7 +10,6 @@ environment:
 dependencies:
   dash_agent:
     path: /Users/yogesh/Development/org.welltested/commanddash/dash_agent
-  http: ^1.2.1
 
 dev_dependencies:
   lints: ^3.0.0

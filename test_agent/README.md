@@ -1,3 +1,7 @@
-# Agent Reamde File
+# Test Agent
 
-This is a sample readme file for agent. You add description about the agent and any other instruction or information.
+Supported commmands at moment:
+
+- `unit` - Generate unit test.
+- `widget` - Generate widget test.
+- `integration` - Generate integration test.

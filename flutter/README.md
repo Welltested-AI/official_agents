@@ -1,3 +1,5 @@
-# Agent Reamde File
+# Flutter Agent
 
-This is a sample readme file for agent. You add description about the agent and any other instruction or information.
+Supported commmands at moment:
+
+- `doc` - Get information or queries resolved related to flutter/dart from the official documentation.

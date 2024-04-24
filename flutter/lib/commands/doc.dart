@@ -48,7 +48,7 @@ class DocCommand extends Command {
             
             Note: 
             1. If the references don't address the question, state that "I couldn't fetch your answer from the doc sources, but I'll try to answer from my own knowledge".
-            2. Be truthful, complete and on point with your responses and include code snippets wherever required.''',
+            2. Be truthful, complete and detailed with your responses and include code snippets wherever required.''',
         promptOutput: promptOutput,
       ),
       AppendToChatStep(value: '$promptOutput')
