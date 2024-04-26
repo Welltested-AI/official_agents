@@ -113,19 +113,16 @@ class GenerateCommand extends Command {
           output: suitableProvidersOutput),
       PromptQueryStep(
           prompt:
-              '''You're a Flutter/Dart coding assistant. Generate riverpod provider related code for users based on their
-          
-          Instructions: $generateInstructions
-          Code Reference:
+              '''You're a Flutter/Dart coding assistant helping user with using riverpod in their code. Here are their instructions: $generateInstructions along with the code reference:
           $codeReference
           
           We think the below choice of the correct provider and reasoning for it,
           $providerChoiceOutput
           
-          Documentation or examples of the above provider choice,
+          Documentation or examples of the above provider choice for your reference:
           $suitableProvidersOutput
           
-          Generate the code that user has requested for.
+          Generate the complete code as per user's instruction.
           ''',
           promptOutput: resultOutput),
       AppendToChatStep(value: '$resultOutput')
