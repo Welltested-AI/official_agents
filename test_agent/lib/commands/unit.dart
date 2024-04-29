@@ -1,19 +1,18 @@
 import 'package:dash_agent/configuration/command.dart';
+import 'package:dash_agent/data/datasource.dart';
 import 'package:dash_agent/steps/steps.dart';
 import 'package:dash_agent/variables/dash_input.dart';
 import 'package:dash_agent/variables/dash_output.dart';
 
 class UnitCommand extends Command {
-  UnitCommand();
+  final DataSource generalSource;
+  UnitCommand(this.generalSource);
 
   /// Inputs
-  final extraDetails = StringInput('Additional Details', optional: true);
-  final codeAttachment = CodeInput('Testable code', optional: false);
-  final reference1 = CodeInput('Existing Reference', optional: true);
-  final reference2 = CodeInput('Existing Reference', optional: true);
-  final reference3 = CodeInput('Existing Reference', optional: true);
-  final unitTestTemplate =
-      '''// Import necessary packages and files
+  final codeAttachment = CodeInput('Test Code', optional: false);
+  final extraDetails = StringInput('Instructions', optional: true);
+  final reference1 = CodeInput('Existing Test', optional: true);
+  final unitTestTemplate = '''// Import necessary packages and files
 ...
 
 // Generate mocks for dependencies
@@ -94,17 +93,32 @@ void main() {
 
   @override
   String get textFieldLayout =>
-      "Hi, I'm here to help you generate unit tests for your codebase. Please share the following info: $codeAttachment \n $extraDetails \nReferences [Optional]: $reference1 $reference2 $reference3";
+      "To generate unit test, please provide: $codeAttachment \n $extraDetails \n\n A matching existing test [Optional]: $reference1";
 
   @override
   List<DashInput> get registerInputs =>
-      [extraDetails, codeAttachment, reference1, reference2, reference3];
+      [extraDetails, codeAttachment, reference1];
 
   @override
   List<Step> get steps {
     // Outputs
-    final promptOutput = PromptOutput();
+    final possibleTestOutput = PromptOutput();
+    final matchingWorksapceTests = MultiCodeObject();
+    final testDocs = MatchDocumentOuput();
+    final generatedUnitTest = PromptOutput();
+
     return [
+      PromptQueryStep(
+          prompt:
+              'basic concise outline template for unit test of $codeAttachment ',
+          promptOutput: possibleTestOutput),
+      WorkspaceQueryStep(
+          query: '$possibleTestOutput', output: matchingWorksapceTests),
+      MatchDocumentStep(
+          query:
+              'unit tests for $codeAttachment with instructions: $extraDetails',
+          dataSources: [generalSource],
+          output: testDocs),
       PromptQueryStep(
         prompt: '''You are a Flutter/Dart unit test writing assistant.
 
@@ -117,19 +131,16 @@ $codeAttachment
 Important instructions shared below:
 $extraDetails
 
-Please find additional references that you can use to generate unit tests as well:
+Please find existing tests from user's codebase to understand their testing style:
 ```dart
-// Reference 1
 $reference1
-
-// Reference 2
-$reference2
-
-// Reference 3
-$reference3
 ```
+$matchingWorksapceTests
 
-Sharing unit test template that you can use to generate unit test:
+Sharing some relevant docs and a unit test template that you can use to generate unit test:
+
+$testDocs
+
 ```dart
 $unitTestTemplate
 ```
@@ -138,11 +149,10 @@ Additional things to keep in mind:
 1. Include inline comments for improving code readability.
 2. State any assumption made or libraries used while creating unit tests.
 3. Generate smart test cases that not only covers all possible execution paths covers the intended behaviours based real world use cases.
-4. Brief about the test cases considered while generating code and how they are helping in generating a full code coverage.
             ''',
-        promptOutput: promptOutput,
+        promptOutput: generatedUnitTest,
       ),
-      AppendToChatStep(value: '$promptOutput')
+      AppendToChatStep(value: '$generatedUnitTest')
     ];
   }
 }

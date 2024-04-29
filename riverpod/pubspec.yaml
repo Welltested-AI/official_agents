@@ -9,7 +9,6 @@ environment:
 # Add regular dependencies here.
 dependencies:
   dash_agent:
-    path: /Users/samyak/Documents/commanddash/commanddash/dash_agent
   # path: ^1.8.0
 
 dev_dependencies:
