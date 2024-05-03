@@ -1,0 +1,12 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  exclude:
+    - "**.g.dart"
+    - "**.chopper.dart"
+    - "**.mocks.dart"
+
+linter:
+  rules:
+    avoid_print: false
+    prefer_single_quotes: true
