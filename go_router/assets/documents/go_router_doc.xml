@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/index.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Upgrading-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Configuration-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Navigation-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Redirection-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Web-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Deep%20linking-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Transition%20animations-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Type-safe%20routes-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Named%20routes-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/topics/Error%20handling-topic.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/go_router-library.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouter-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteBase-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRouteBase-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRouteBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRoutePageBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterState-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRouteContext-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RoutingConfig-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterRedirect.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouteData-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/CustomTransitionPage-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouteInformationParser-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteMatchList-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouteInformationProvider-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterDelegate-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ImperativeRouteMatch-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/InheritedGoRouter-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/NoTransitionPage-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteBuilder-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteConfiguration-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteData-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteInformationState-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteMatch-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteMatchBase-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulShellRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRouteData-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellRouteMatch-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulNavigationShell-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulNavigationShellState-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulShellBranch-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulShellBranchData-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulShellRouteData-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/TypedGoRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/TypedRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/TypedShellRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/TypedStatefulShellBranch-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/TypedStatefulShellRoute-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/NavigatingType.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterHelper.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ExitCallback.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoExceptionHandler.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterBuilderWithNav.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterPageBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoRouterWidgetBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/NavigatorBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ParserExceptionHandler.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/PopPageWithRouteMatchCallback.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/RouteMatchVisitor.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/ShellNavigationContainerBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulShellRouteBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/StatefulShellRoutePageBuilder.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoError-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/go_router/latest/go_router/GoException-class.html</loc>
+  <lastmod>2024-05-04T13:41:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
