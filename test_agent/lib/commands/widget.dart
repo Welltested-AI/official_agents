@@ -56,18 +56,9 @@ void main() {
   @override
   List<Step> get steps {
     // Outputs
-    final possibleTestOutput = PromptOutput();
-    final matchingWorksapceTests = MultiCodeObject();
     final testDocs = MatchDocumentOuput();
-
     final generatedWidgetTest = PromptOutput();
     return [
-      PromptQueryStep(
-          prompt:
-              'basic concise example template for widget test for $codeAttachment',
-          promptOutput: possibleTestOutput),
-      WorkspaceQueryStep(
-          query: '$possibleTestOutput', output: matchingWorksapceTests),
       MatchDocumentStep(
           query:
               'widget tests for $codeAttachment with instructions: $extraDetails',
@@ -85,11 +76,10 @@ $codeAttachment
 Important instructions shared below:
 $extraDetails
 
-Please find additional references that you can use to generate unit tests as well:
+Please find a reference widget test from user's codebase to understand their style
 ```dart
 $reference1
 ```
-$matchingWorksapceTests
 
 Sharing some docs and a widget test template that you can use to generate widget test:
 

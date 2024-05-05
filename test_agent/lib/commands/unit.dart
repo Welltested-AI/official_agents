@@ -102,18 +102,10 @@ void main() {
   @override
   List<Step> get steps {
     // Outputs
-    final possibleTestOutput = PromptOutput();
-    final matchingWorksapceTests = MultiCodeObject();
     final testDocs = MatchDocumentOuput();
     final generatedUnitTest = PromptOutput();
 
     return [
-      PromptQueryStep(
-          prompt:
-              'basic concise outline template for unit test of $codeAttachment ',
-          promptOutput: possibleTestOutput),
-      WorkspaceQueryStep(
-          query: '$possibleTestOutput', output: matchingWorksapceTests),
       MatchDocumentStep(
           query:
               'unit tests for $codeAttachment with instructions: $extraDetails',
@@ -131,11 +123,10 @@ $codeAttachment
 Important instructions shared below:
 $extraDetails
 
-Please find existing tests from user's codebase to understand their testing style:
+Please find existing test from user's codebase to understand their testing style:
 ```dart
 $reference1
 ```
-$matchingWorksapceTests
 
 Sharing some relevant docs and a unit test template that you can use to generate unit test:
 
