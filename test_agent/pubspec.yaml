@@ -1,6 +1,6 @@
 name: test
 description: Get help with writing tests.
-version: 1.2.5
+version: 1.2.8
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,7 +8,8 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent: ^ 0.1.1
+  dash_agent:
+    path: /Users/samyak/Documents/commanddash/commanddash/dash_agent/
 
 dev_dependencies:
   lints: ^3.0.0

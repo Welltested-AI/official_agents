@@ -4,11 +4,10 @@ packages:
   dash_agent:
     dependency: "direct main"
     description:
-      name: dash_agent
-      sha256: "12faeef70cfcf87093f4e0ea9bf3b0df86b9c8ffc7eeeb9e0f06f9b8fd5201fb"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.1"
+      path: "/Users/samyak/Documents/commanddash/commanddash/dash_agent/"
+      relative: false
+    source: path
+    version: "0.2.1"
   lints:
     dependency: "direct dev"
     description:

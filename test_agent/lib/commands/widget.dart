@@ -11,8 +11,10 @@ class WidgetCommand extends Command {
   /// Inputs
   final codeAttachment = CodeInput('Widget Code', optional: false);
   final extraDetails = StringInput('Instructions', optional: true);
-  final contextualCode1 = CodeInput('Contextual Code', optional: true);
-  final contextualCode2 = CodeInput('Contextual Code', optional: true);
+  final contextualCode1 = CodeInput('Contextual Code',
+      optional: true, includeContextualCode: false);
+  final contextualCode2 = CodeInput('Contextual Code',
+      optional: true, includeContextualCode: false);
   final reference1 = CodeInput('Existing Widget Test', optional: true);
 
   final widgetTestTemplate = '''// necessary imports
@@ -73,8 +75,13 @@ Generate Flutter widget tests covering common as well as edge case scenarios for
 $codeAttachment
 ```
 
+
 Important instructions shared below:
 $extraDetails
+
+Other widgets attached by the user that may be needed to write the test:
+$contextualCode1
+$contextualCode2
 
 Please find a reference widget test from user's codebase to understand their style
 ```dart
@@ -82,7 +89,6 @@ $reference1
 ```
 
 Sharing some docs and a widget test template that you can use to generate widget test:
-
 $testDocs
 
 ```dart

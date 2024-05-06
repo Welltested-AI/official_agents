@@ -11,7 +11,8 @@ class UnitCommand extends Command {
   /// Inputs
   final codeAttachment = CodeInput('Test Code', optional: false);
   final extraDetails = StringInput('Instructions', optional: true);
-  final reference1 = CodeInput('Existing Test', optional: true);
+  final reference1 =
+      CodeInput('Existing Test', optional: true, includeContextualCode: false);
   final unitTestTemplate = '''// Import necessary packages and files
 ...
 
@@ -102,15 +103,10 @@ void main() {
   @override
   List<Step> get steps {
     // Outputs
-    final testDocs = MatchDocumentOuput();
+
     final generatedUnitTest = PromptOutput();
 
     return [
-      MatchDocumentStep(
-          query:
-              'unit tests for $codeAttachment with instructions: $extraDetails',
-          dataSources: [generalSource],
-          output: testDocs),
       PromptQueryStep(
         prompt: '''You are a Flutter/Dart unit test writing assistant.
 
@@ -128,10 +124,7 @@ Please find existing test from user's codebase to understand their testing style
 $reference1
 ```
 
-Sharing some relevant docs and a unit test template that you can use to generate unit test:
-
-$testDocs
-
+Sharing a unit test template that you can use to generate unit test:
 ```dart
 $unitTestTemplate
 ```
