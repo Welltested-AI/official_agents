@@ -26,7 +26,7 @@ class DocsDataSource extends DataSource {
 class ExampleDataSource extends DataSource {
   @override
   List<FileDataObject> get fileObjects => [
-        FileDataObject.fromDirectory(Directory('assets/examples'),
+        FileDataObject.fromDirectory(Directory('assets/examples/official/lib'),
             includePaths: true,
             regex: RegExp(r'(\.dart$)'),
             relativeTo:
@@ -55,4 +55,23 @@ class IssuesDataSource extends DataSource {
   @override
   List<WebDataObject> get webObjects =>
       [for (final issueUrl in issuesLinks) WebDataObject.fromWebPage(issueUrl)];
+}
+
+
+/// [TestExampleDataSource] indexes all the test examples related data and provides it to commands.
+class TestExampleDataSource extends DataSource {
+  @override
+  List<FileDataObject> get fileObjects => [
+        FileDataObject.fromDirectory(Directory('assets/examples/official/test'),
+            includePaths: true,
+            regex: RegExp(r'(\.dart$)'),
+            relativeTo:
+                '/Users/yogesh/Development/org.welltested/default_agents/go_router/assets/examples')
+      ];
+
+  @override
+  List<ProjectDataObject> get projectObjects => [];
+
+  @override
+  List<WebDataObject> get webObjects => [];
 }
