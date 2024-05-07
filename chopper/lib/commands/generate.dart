@@ -26,16 +26,57 @@ class GenerateCommand extends Command {
   @override
   List<Step> get steps {
     final docReferences = MatchDocumentOuput();
+    final codeReferences = MatchDocumentOuput();
+    final filteredReferences = PromptOutput();
     final resultOutput = PromptOutput();
     return [
       MatchDocumentStep(
           query:
               'examples/instructions of writing code using chopper - $generateInstructions $codeReference1 $codeReference2.',
-          dataSources: [exampleDataSource, docDataSource],
+          dataSources: [docDataSource],
           output: docReferences),
+      MatchDocumentStep(
+          query:
+              'examples/instructions of writing code using chopper - $generateInstructions $codeReference1 $codeReference2.',
+          dataSources: [exampleDataSource],
+          output: codeReferences),
       PromptQueryStep(
           prompt:
-              '''Generate code using chopper based on the instructions <Instructions> and relevant code references/examples <Code References> shared.
+              '''You are tasked with finding the at most top 3 most relevant references from the shared input refereces for a specific query. Your goal is to provide a concise list of references out of the shared references in Markdown format.
+
+Query: examples/instructions of writing code using chopper - $generateInstructions $codeReference1 $codeReference2.
+
+Input References:
+## Doc References
+$docReferences
+
+## Code Refrences
+$codeReferences
+
+Instructions:
+1. Read through the provided inpur references and identify the most relevant references that are pertinent to the given query.
+2. For each relevant reference, provide the following information in Markdown format:
+   - Brief Summary describing relevance to the given query
+   - Reference content
+
+Example input:
+Query: Latest version of go_router
+
+Input Refernces:
+This article introduces go_router, a new Flutter router package designed specifically for web applications.
+This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
+This guide explains asynchronous programming concepts in Dart, including Futures, Streams, and async/await syntax.
+
+Example Output:
+
+- **Reference Title:** "Blog on go_router v2.0 Released: What's New?"
+- **Reference Content**: This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
+
+Please provide the list of relevant references in the specified Markdown format.''',
+          promptOutput: filteredReferences),
+      PromptQueryStep(
+          prompt:
+              '''You are tasked with generating Flutter code to communicate with a RESTful API using the Chopper package. Your goal is to convert a traditional network setup into Chopper code for improved efficiency and maintainability based on the instructions <Instructions> and relevant code references/examples <Code References> shared.
            Instructions: $generateInstructions
            
           Code References:
@@ -48,9 +89,10 @@ class GenerateCommand extends Command {
           ```
           
           Documentation or examples of the chopper package for reference:
-          $docReferences
+          $filteredReferences
           
-          Generate the complete code as per user's instruction.
+
+          Generate the complete code along with any relevant convertors and interceptors that is needed  or requested by the user.
           ''',
           promptOutput: resultOutput),
       AppendToChatStep(value: '$resultOutput')

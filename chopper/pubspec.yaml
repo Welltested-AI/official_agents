@@ -1,6 +1,6 @@
 name: chopper
-description: A sample command-line application.
-version: 1.0.0
+description: Get help with chopper in your codebase
+version: 1.0.6
 # repository: https://github.com/my_org/my_repo
 
 environment:
