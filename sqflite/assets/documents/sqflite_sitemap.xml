@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/README.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/opening_db.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/migration_example.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/sql.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/supported_types.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/desktop_support.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/encryption_support.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/web_support.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/opening_asset_db.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/deleting_db.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/troubleshooting.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/usage_recommendations.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/dev_tips.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/version.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/sqflite_dev_guide.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/testing.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/external.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/conflict_algorithm.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/handling_errors.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tekartik/sqflite/blob/master/sqflite/doc/qa.md</loc>
+  <lastmod>2024-05-08T09:34:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
