@@ -44,7 +44,7 @@ class GenerateCommand extends Command {
           prompt:
               '''You are tasked with finding the at most top 3 most relevant references from the shared input refereces for a specific query. Your goal is to provide a concise list of references out of the shared references in Markdown format.
 
-Query: examples/instructions of writing code using chopper - $generateInstructions $codeReference1 $codeReference2.
+Query: examples/instructions of writing code using go_router - $generateInstructions $codeReference1 $codeReference2.
 
 Input References:
 ## Doc References
