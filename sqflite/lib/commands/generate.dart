@@ -32,19 +32,19 @@ class GenerateCommand extends Command {
     return [
       MatchDocumentStep(
           query:
-              'examples/instructions of writing code using go_router - $generateInstructions $codeReference1 $codeReference2.',
+              'examples/instructions of writing code using sqflite - $generateInstructions $codeReference1 $codeReference2.',
           dataSources: [docDataSource],
           output: docReferences),
       MatchDocumentStep(
           query:
-              'examples/instructions of writing code using go_router - $generateInstructions $codeReference1 $codeReference2.',
+              'examples/instructions of writing code using sqflite - $generateInstructions $codeReference1 $codeReference2.',
           dataSources: [exampleDataSource],
           output: codeReferences),
       PromptQueryStep(
           prompt:
               '''You are tasked with finding the at most top 3 most relevant references from the shared input refereces for a specific query. Your goal is to provide a concise list of references out of the shared references in Markdown format.
 
-Query: examples/instructions of writing code using chopper - $generateInstructions $codeReference1 $codeReference2.
+Query: examples/instructions of writing code using sqflite - $generateInstructions $codeReference1 $codeReference2.
 
 Input References:
 ## Doc References
@@ -60,17 +60,17 @@ Instructions:
    - Reference content
 
 Example input:
-Query: Latest version of go_router
+  Query: Latest version of go_router
 
-Input Refernces:
-This article introduces go_router, a new Flutter router package designed specifically for web applications.
-This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
-This guide explains asynchronous programming concepts in Dart, including Futures, Streams, and async/await syntax.
+  Input References:
+  This article introduces go_router, a new Flutter router package designed specifically for web applications.
+  This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
+  This guide explains asynchronous programming concepts in Dart, including Futures, Streams, and async/await syntax.
 
 Example Output:
 
-- **Reference Title:** "Blog on go_router v2.0 Released: What's New?"
-- **Reference Content**: This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
+  - **Reference Title:** "Blog on go_router v2.0 Released: What's New?"
+  - **Reference Content**: This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
 
 Please provide the list of relevant references in the specified Markdown format.''',
           promptOutput: filteredReferences),
@@ -105,5 +105,5 @@ Please provide the list of relevant references in the specified Markdown format.
 
   @override
   String get textFieldLayout =>
-      'Generate the code using go_router: $generateInstructions \n\nOptionally attach any references: $codeReference1 $codeReference2';
+      'Generate the code using sqflite: $generateInstructions \n\nOptionally attach any references: $codeReference1 $codeReference2';
 }
