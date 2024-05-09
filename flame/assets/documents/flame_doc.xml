@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.flame-engine.org/latest/</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/flame.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/structure.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/game_widget.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/game.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/components.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/router.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/platforms.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/collision_detection.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/effects.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/camera_component.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/inputs.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/drag_events.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/gesture_input.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/keyboard_input.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/other_inputs.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/tap_events.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/pointer_events.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/inputs/hardware_keyboard_detector.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/rendering.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/palette.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/decorators.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/images.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/layers.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/particles.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/rendering/text_rendering.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/layout/layout.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/layout/align_component.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/overlays.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/other/other.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/other/debug.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/other/util.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/flame/other/widgets.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/bridge_packages.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_audio/flame_audio.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_audio/audio.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_audio/bgm.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_audio/audio_pool.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_bloc/flame_bloc.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_bloc/bloc.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_bloc/bloc_components.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_fire_atlas/flame_fire_atlas.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_fire_atlas/fire_atlas.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_forge2d/flame_forge2d.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_forge2d/forge2d.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_forge2d/joints.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_isolate/flame_isolate.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_isolate/isolate.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_lottie/flame_lottie.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_network_assets/flame_network_assets.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_oxygen/flame_oxygen.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_rive/flame_rive.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_rive/rive.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_riverpod/flame_riverpod.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_riverpod/riverpod.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_riverpod/component.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_riverpod/widget.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_splash_screen/flame_splash_screen.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_spine/flame_spine.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_svg/flame_svg.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_svg/svg.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_tiled/flame_tiled.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_tiled/tiled.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/bridge_packages/flame_tiled/layers.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/other_modules.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/jenny.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/language.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/nodes.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/lines.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/options.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/commands.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/character.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/declare.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/if.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/jump.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/local.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/set.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/stop.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/visit.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/wait.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/commands/user_defined_commands.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/expressions.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/variables.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/operators.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/functions/functions.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/functions/random.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/functions/numeric.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/functions/type.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/expressions/functions/misc.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/language/markup.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/jenny_runtime.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/character.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/character_storage.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/command_storage.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/dialogue_choice.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/dialogue_line.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/dialogue_option.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/dialogue_runner.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/dialogue_view.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/function_storage.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/markup_attribute.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/node.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/user_defined_command.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/variable_storage.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/jenny/runtime/yarn_project.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/oxygen/oxygen.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/other_modules/oxygen/components.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/tutorials.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/bare_flame_game.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/klondike/klondike.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/klondike/step1.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/klondike/step2.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/klondike/step3.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/klondike/step4.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/klondike/step5.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/platformer.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_1.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_2.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_3.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_4.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_5.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_6.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/platformer/step_7.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/space_shooter.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/step_1.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/step_2.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/step_3.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/step_4.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/step_5.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/tutorials/space_shooter/step_6.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/development/development.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/development/contributing.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/development/documentation.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/development/style_guide.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/development/testing_guide.html</loc>
+  <lastmod>2024-05-06T13:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/resources/resources.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.flame-engine.org/latest/index.html</loc>
+  <lastmod>2024-05-06T13:47:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

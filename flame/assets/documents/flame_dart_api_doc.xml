@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/cache/cache-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/camera-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/collisions-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/components-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/debug/debug-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/devtools/devtools-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/effects-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/events-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/experimental/experimental-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/extensions-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/flame/flame-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/game-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/geometry-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/image_composition/image_composition-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/input-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layers/layers-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layout/layout-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/math/math-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/palette/palette-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/parallax-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/particles-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/rendering/rendering-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/sprite-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/text-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/timer/timer-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/widgets-library.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/index.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/cache/AssetsCache-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/cache/Images-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/cache/MemoryCache-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/cache/ValueCache-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/BoundedPositionBehavior-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/CameraComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/World-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/CircularViewport-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/FixedAspectRatioViewport-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/FixedResolutionViewport-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/FixedSizeViewport-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/FollowBehavior-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/MaxViewport-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/Viewfinder-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/camera/Viewport-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/Broadphase-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/Hitbox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CircleHitbox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionDetection-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionDetectionCompletionNotifier-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionProspect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionTypeNotifier-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CompositeHitbox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/PositionComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/ShapeHitbox-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/PolygonHitbox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/ProspectPool-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/QuadTree-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/QuadTreeBroadphase-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/QuadTreeCollisionDetection-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/QuadTreeNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/QuadTreeNodeDebugInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/RaycastResult-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/RectangleHitbox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/ScreenHitbox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/FlameGame-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/StandardCollisionDetection-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/Sweep-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionType.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionPassthrough-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/GenericCollisionCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/HasQuadTreeCollisionDetection-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/ShapeComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionCallback.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Vector2-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/CollisionEndCallback.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/ExternalBroadphaseCheck.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/collisions/ExternalMinDistanceCheck.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Aabb2-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Aabb3-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/AdvancedButtonComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/Anchor-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/Block-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/CircleComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ClipComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/Component-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ComponentKey-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ComponentSet-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ComponentsNotifier-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/CoordinateTransform-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/CustomPainterComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/FpsComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/FpsTextComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextRenderer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/TextComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Frustum-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Plane-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/IntersectionResult-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/IsometricTileMapComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/JoystickComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/KeyboardListenerComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/KeyboardHandler-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/HasKeyboardHandlerComponents-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Matrix2-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Matrix3-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/NineTileBox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/NineTileBoxComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Obb3-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ParallaxComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ParticleSystemComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/Particle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/PolygonComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Quad-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Quaternion-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Ray-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/RectangleComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ScrollTextBoxComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/SimplexNoise-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SpawnComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Sphere-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/Sprite-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteAnimation-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SpriteAnimationComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteAnimationData-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteAnimationFrame-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteAnimationFrameData-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SpriteAnimationGroupComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SpriteBatchComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SpriteComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SpriteGroupComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/TextBoxComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/TextBoxConfig-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/TextElementComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextPaint-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextPainterTextElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/timer/Timer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/TimerComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ToggleButtonComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Triangle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Vector-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Vector3-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/Vector4-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ButtonState.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ChildrenChangeType.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/JoystickDirection.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/PositionType.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ComponentViewportMargin-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/GestureHitboxes-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasAncestor-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/HasCollisionDetection-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasDecorator-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/rendering/Decorator-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasGameRef-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasGameReference-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/HasGenericCollisionDetection-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasPaint-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasTimeScale-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasVisibility-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/HasWorldReference-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/IgnoreEvents-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/Notifier-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ParentIsA-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/SingleChildParticle-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/Snapshot-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ParallaxComponentExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/Vector2Extension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/degrees2Radians-constant.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/radians2Degrees-constant.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/absoluteError.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/buildPlaneVectors.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/catmullRom.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/cross2.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/cross2A.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/cross2B.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/cross3.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/degrees.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/dot2.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/dot3.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makeFrustumMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makeInfiniteMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makeOrthographicMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makePerspectiveMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makePlaneProjection.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makePlaneReflection.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/makeViewMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/mix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/pickRay.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/radians.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/relativeError.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setFrustumMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setInfiniteMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setModelMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setOrthographicMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setPerspectiveMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setRotationMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/setViewMatrix.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/smoothStep.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/unproject.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ComponentSetFactory.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/KeyHandlerCallback.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/components/ShapeBuilder.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/experimental/Shape-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/debug/ChildCounterComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/debug/DevToolsService-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/debug/TimeTrackComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/devtools/ComponentTreeNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/AnchorByEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/AnchorEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/AnchorProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/AnchorToEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/AngleProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ColorEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ComponentEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/CurvedEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/DelayedEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/DurationEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/Effect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/EffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/GlowEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/InfiniteEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/LinearEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/MoveAlongPathEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/MoveByEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/MoveEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/MoveToEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/OpacityEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/OpacityProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/PauseEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/PositionProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/RandomEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/RandomVariable-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ReadOnlyAngleProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ReadOnlyPositionProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ReadOnlyScaleProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ReadOnlySizeProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/RemoveEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/RepeatedEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ReverseCurvedEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ReverseLinearEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/RotateEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ScaleEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ScaleProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/SequenceEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/SequenceEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/SineEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/SizeEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/SizeProvider-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/SpeedEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/Transform2DEffect-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/Transform2D-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/ZigzagEffectController-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/effects/EffectTarget-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DoubleTapCancelEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DoubleTapDownEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DoubleTapEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragCancelEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragDownInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragEndEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragEndInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragStartEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragStartInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragUpdateEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragUpdateInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/ForcePressInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/HardwareKeyboardDetector-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/LongPressEndInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/LongPressMoveUpdateInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/LongPressStartInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/MultiDragListener-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/MultiTapListener-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/PointerHoverInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/PointerMoveEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/PointerScrollInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/PositionInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/ScaleEndInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/ScaleStartInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/ScaleUpdateInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/TapCancelEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/TapDownEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/TapDownInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/TapUpEvent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/TapUpInfo-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DoubleTapCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/DoubleTapDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/DragCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/ForcePressDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/KeyboardEvents-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/HorizontalDragDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/HoverCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/Game-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/LongPressDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/MouseMovementDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/MultiTouchDragDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/MultiTouchTapDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/PanDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/PointerMoveCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/ScaleDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/ScrollDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/SecondaryTapDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/events/TapCallbacks-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/TapDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/TertiaryTapDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/VerticalDragDetector-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/experimental/Circle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/experimental/Polygon-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/experimental/Rectangle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/experimental/RoundedRectangle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/Aabb2Extension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/CanvasExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/ColorExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/DoubleExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/ImageExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/ListExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/Matrix4Extension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/OffsetExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/PaintExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/PictureExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/RectangleExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/RectExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/extensions/SizeExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/flame/Flame-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/GameWidget-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/GameWidgetState-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/NotifyingVector2-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/OverlayRoute-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/Route-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/RouterComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/ValueRoute-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/HasPerformanceTracker-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/SingleGameInstance-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/GameErrorWidgetBuilder.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/GameFactory.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/GameLoadingWidgetBuilder.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/game/OverlayWidgetBuilder.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/CircleCircleIntersections-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/CirclePolygonIntersections-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/Intersections-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/Line-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/LineSegment-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/PolygonPolygonIntersections-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/Ray2-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/PolygonRayIntersection-mixin.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/tau-constant.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/geometry/intersections.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/image_composition/ImageComposition-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/ButtonComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/HudButtonComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/HudMarginComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/SpriteButtonComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/input/ButtonState.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layers/DynamicLayer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layers/Layer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layers/LayerProcessor-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layers/PreRenderedLayer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layers/ShadowProcessor-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/layout/AlignComponent-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/math/discriminantEpsilon-constant.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/math/randomFallback.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/math/solveCubic.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/math/solveQuadratic.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/palette/BasicPalette-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/palette/PaletteEntry-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/Parallax-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxAnimation-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxAnimationData-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxData-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxImage-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxImageData-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxLayer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxRenderer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/LayerFill.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/parallax/ParallaxExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/AcceleratedParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/CircleParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ComponentParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ComposedParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ComputedParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/CurvedParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ImageParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/MovingParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/PaintParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/RotatingParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ScaledParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ScalingParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/SpriteAnimationParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/SpriteParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/TranslatedParticle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ParticleGenerator.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/particles/ParticleRenderDelegate.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/rendering/PaintDecorator-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/rendering/Rotate3DDecorator-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/rendering/Shadow3DDecorator-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/rendering/Transform2DDecorator-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/BatchItem-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteAnimationTicker-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteBatch-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteSheet-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/sprite/SpriteBatchExtension.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/BackgroundStyle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/BlockElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/BlockNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/BlockStyle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/BoldTextNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/ColumnNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/DocumentRoot-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/DocumentStyle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/FlameTextStyle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/Glyph-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/SpriteFont-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/GroupTextNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/HeaderNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/InlineTextElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/InlineTextNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/InlineTextStyle-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/ItalicTextNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/LineMetrics-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/ParagraphNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/PlainTextNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/RectElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/RRectElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/SpriteFontRenderer-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/SpriteFontTextElement-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextBlockNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextNode-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/text/TextRendererFactory-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/ComponentsNotifierBuilder-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/InternalNineTileBox-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/InternalSpriteAnimationWidget-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/InternalSpriteButton-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/InternalSpriteWidget-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/NineTileBoxWidget-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/SpriteAnimationWidget-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/SpriteButton-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pub.dev/documentation/flame/latest/widgets/SpriteWidget-class.html</loc>
+  <lastmod>2024-05-08T11:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
