@@ -96,3 +96,19 @@ class DocsDataSource extends DataSource {
   List<WebDataObject> get webObjects =>
       [WebDataObject.fromSiteMap('https://riverpod.dev/sitemap.xml')];
 }
+
+class GithubIssuesDataSource extends DataSource {
+  GithubIssuesDataSource(this.openIssues, this.closedIssues);
+  final List<String> openIssues;
+  final List<String> closedIssues;
+  @override
+  List<FileDataObject> get fileObjects => [];
+
+  @override
+  List<ProjectDataObject> get projectObjects => [];
+
+  @override
+  List<WebDataObject> get webObjects => [...openIssues, ...closedIssues]
+      .map((e) => WebDataObject.fromWebPage(e))
+      .toList();
+}
