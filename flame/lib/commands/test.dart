@@ -29,7 +29,7 @@ class TestCommand extends Command {
 
   @override
   String get textFieldLayout =>
-      'Generate test for your go_router-related code $primaryObject with $testInstructions\n\nOptionally attach any supporting code: $referenceObject1 $referenceObject2 $referenceObject3';
+      'Generate test for your flame-related code $primaryObject with $testInstructions\n\nOptionally attach any supporting code: $referenceObject1 $referenceObject2 $referenceObject3';
 
   @override
   List<Step> get steps {
@@ -38,14 +38,14 @@ class TestCommand extends Command {
     return [
       MatchDocumentStep(
           query:
-              'examples/instructions of writing tests for go_router code - $testInstructions $primaryObject.',
+              'examples/instructions of writing tests for flame code - $testInstructions $primaryObject.',
           dataSources: [testDataSource],
           output: testReferences),
       PromptQueryStep(
           prompt:
               '''You are tasked with testing the flame code.
               
-Write tests related code <Code> with instructions - $testInstructions. 
+Write tests for flame-related code <Code> with instructions - $testInstructions. 
 
 Code:
 ```dart

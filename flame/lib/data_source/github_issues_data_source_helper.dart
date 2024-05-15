@@ -17,12 +17,16 @@ Future<List<String>> generateGitIssuesLink({bool closedIssues = false}) async {
   final issueUrls = <String>[];
 
   if (closedIssues) {
-    issueApiUrl = '$issueApiUrl&state=closed';
+    issueApiUrl = '$issueApiUrl?state=closed';
   }
 
   // Loop through the pages of results.
   while (issueApiUrl != null && issueLimit > issueUrls.length) {
-    final response = await http.get(Uri.parse(issueApiUrl));
+    final response = await http.get(Uri.parse(issueApiUrl), headers: {
+      'Authorization': 'token {{your github token}}',
+      'Accept': 'application/vnd.github+json',
+      'User-Agent': 'zexross'
+    });
 
     if (response.statusCode == 200) {
       final responseBody = jsonDecode(response.body).cast<Map>();
@@ -44,6 +48,11 @@ Future<List<String>> generateGitIssuesLink({bool closedIssues = false}) async {
       } else {
         issueApiUrl = null;
       }
+    } else {
+      print('PROCESS_AGENT_FAILURE');
+      print(jsonEncode(
+          'Runtime Error - Github issue fetching failure. Response code: ${response.statusCode}, Reason: ${response.body}'));
+      print('END_OF_AGENT_JSON');
     }
   }
 

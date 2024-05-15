@@ -44,7 +44,7 @@ class GenerateCommand extends Command {
           prompt:
               '''You are tasked with finding the at most top 3 most relevant references from the shared input refereces for a specific query. Your goal is to provide a concise list of references out of the shared references in Markdown format.
 
-Query: examples/instructions of writing code using go_router - $generateInstructions $codeReference1 $codeReference2.
+Query: examples/instructions of writing code using flame package - $generateInstructions $codeReference1 $codeReference2.
 
 Input References:
 ## Doc References
@@ -59,18 +59,18 @@ Instructions:
    - Brief Summary describing relevance to the given query
    - Reference content
 
-Example input:
-Query: Latest version of go_router
+Example 
+  Input:
+  Query: Latest version of go_router
 
-Input Refernces:
-This article introduces go_router, a new Flutter router package designed specifically for web applications.
-This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
-This guide explains asynchronous programming concepts in Dart, including Futures, Streams, and async/await syntax.
+  Input Refernces:
+  This article introduces go_router, a new Flutter router package designed specifically for web applications.
+  This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
+  This guide explains asynchronous programming concepts in Dart, including Futures, Streams, and async/await syntax.
 
-Example Output:
-
-- **Reference Title:** "Blog on go_router v2.0 Released: What's New?"
-- **Reference Content**: This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
+  Output:
+  - **Reference Title:** "Blog on go_router v2.0 Released: What's New?"
+  - **Reference Content**: This blog post announces the release of go_router version 2.0, highlighting the new features and improvements.
 
 Please provide the list of relevant references in the specified Markdown format.''',
           promptOutput: filteredReferences),

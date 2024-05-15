@@ -20,7 +20,7 @@ List<String> sitemapUrlFetcher(String filePath) {
   List<String> urls = [];
   for (var urlElement in urlElements) {
     var locElement = urlElement.findElements('loc').first;
-    var url = locElement.value;
+    var url = locElement.firstChild?.value;
     if (url != null) {
       urls.add(url);
     }

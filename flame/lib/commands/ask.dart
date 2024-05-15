@@ -16,7 +16,7 @@ class AskCommand extends Command {
 
   /// Inputs to be provided by the user in the text field
   final userQuery = StringInput('Query', optional: false);
-  final codeAttachment = CodeInput('Code');
+  final codeAttachment = CodeInput('Code', optional: true);
 
   @override
   String get slug => 'ask';
