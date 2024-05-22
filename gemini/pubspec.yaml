@@ -1,6 +1,6 @@
-name: riverpod
-description: Get help with riverpod in you codebase.
-version: 1.0.6
+name: gemini
+description: Google Gemini agent for Google Gen AI SDK or Firebase Vertex AI for adding Gemini in your Flutter apps.
+version: 1.0.91
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,8 +8,9 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent:
+  dash_agent: ^0.2.1
   http: ^1.2.0
+  xml: ^6.5.0
   # path: ^1.8.0
 
 dev_dependencies:

@@ -1,6 +1,6 @@
-name: riverpod
-description: Get help with riverpod in you codebase.
-version: 1.0.6
+name: ai_sdk
+description: Vercel AI SDK helps you build AI chat experiences in your React apps.
+version: 1.0.5
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,9 +8,9 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent:
-  http: ^1.2.0
-  # path: ^1.8.0
+  dash_agent: ^0.2.1
+  http:
+  xml: ^6.5.0
 
 dev_dependencies:
   lints: ^2.1.0
