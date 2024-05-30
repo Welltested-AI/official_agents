@@ -76,7 +76,7 @@ packages:
   dash_agent:
     dependency: "direct main"
     description:
-      path: "/Users/samyak/Documents/commanddash/commanddash/dash_agent"
+      path: "/Users/samyak/Documents/commanddash/commanddash/dash_agent/"
       relative: false
     source: path
     version: "0.2.1"

@@ -1,5 +1,5 @@
-name: anthropic
-description: Claude is a family of large language models developed by Anthropic.
+name: haystack
+description: Open Source AI Framework by Deepset
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
@@ -9,7 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   dash_agent:
-    path: /Users/samyak/Documents/commanddash/commanddash/dash_agent
+    path: /Users/samyak/Documents/commanddash/commanddash/dash_agent/
   # path: ^1.8.0
 
 dev_dependencies:

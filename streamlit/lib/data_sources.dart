@@ -1,6 +1,8 @@
+import 'dart:io';
+
 import 'package:dash_agent/data/datasource.dart';
-import 'package:dash_agent/data/objects/file_data_object.dart';
 import 'package:dash_agent/data/objects/project_data_object.dart';
+import 'package:dash_agent/data/objects/file_data_object.dart';
 import 'package:dash_agent/data/objects/web_data_object.dart';
 
 /// [DocsDataSource] indexes all the documentation related data and provides it to commands.
@@ -12,6 +14,9 @@ class DocsDataSource extends DataSource {
   List<ProjectDataObject> get projectObjects => [];
 
   @override
-  List<WebDataObject> get webObjects =>
-      [WebDataObject.fromSiteMap('https://docs.anthropic.com/sitemap.xml')];
+  List<WebDataObject> get webObjects => [
+        WebDataObject.fromSiteMap('https://docs.streamlit.io/sitemap-0.xml'),
+        WebDataObject.fromSiteMap(
+            'https://blog.streamlit.io/sitemap-posts.xml') //TODO: Verify if this is indexed correctly
+      ];
 }

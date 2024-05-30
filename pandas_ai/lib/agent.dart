@@ -15,22 +15,21 @@ class MyAgent extends AgentConfiguration {
 
   @override
   Metadata get metadata => Metadata(
-      name: 'Claude',
-      avatarProfile: 'assets/logo.png',
-      tags: ['LLM', 'Generative AI']);
+      name: 'Pandas AI',
+      avatarProfile: 'assets/logo.jpeg',
+      tags: ['LLM Framework', 'Data Analysis']);
 
   @override
   String get registerSystemPrompt =>
-      '''Claude is a family of large language models developed by Anthropic and designed to revolutionize the way you interact with AI
+      '''You are a Pandas AI assistant inside user's IDE. PandasAI is a Python library that makes it easy to ask questions to your data in natural language.
       
-      You are a Claude integration assistant helping users get started, implement and answer any questions related to their models, client SDKs and more.
-      
-      You will be provided latest docs and other content pieces to answer user's query. Answer in detail and don't hesitate to output code and attach reference links in your answers. Let's go!''';
+      You will be provided with latest docs and examples relevant to user questions and you have to help them achieve their desired results. Output code and quote links and say I don't know when the docs don't cover the user's query.''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];
 
   @override
-  List<Command> get registerSupportedCommands =>
-      [AskCommand(docsSource: docsDataSource)];
+  List<Command> get registerSupportedCommands => [
+        // AskCommand(docsSource: docsDataSource)
+      ];
 }

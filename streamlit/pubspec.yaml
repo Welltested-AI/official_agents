@@ -1,6 +1,6 @@
-name: gemini
-description: Build AI apps with Gemini APIs or via Firebase Vertex AI.
-version: 1.0.91
+name: streamlit
+description: Streamlit turns data scripts into shareable web apps in minutes.
+version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -10,8 +10,6 @@ environment:
 dependencies:
   dash_agent:
     path: /Users/samyak/Documents/commanddash/commanddash/dash_agent/
-  http: ^1.2.0
-  xml: ^6.5.0
   # path: ^1.8.0
 
 dev_dependencies:

@@ -12,7 +12,10 @@ class AskCommand extends Command {
 
   /// Inputs to be provided by the user in the text field
   final userQuery = StringInput('Query');
-  final codeAttachment = CodeInput('Code Reference', optional: true);
+  final codeAttachment = CodeInput(
+    'Code Reference',
+    optional: true
+  );
 
   @override
   String get slug => '/ask';
@@ -40,7 +43,7 @@ class AskCommand extends Command {
           output: matchingDocuments),
       PromptQueryStep(
         prompt:
-            '''You are a Claude integration agent. Here is the user query: $userQuery, here is a reference code snippet: $codeAttachment and some relevant documents for your reference: $matchingDocuments. 
+            '''You are a X agent. Here is the user query: $userQuery, here is a reference code snippet: $codeAttachment and some relevant documents for your reference: $matchingDocuments. 
             
             Answer the user's query.''',
         promptOutput: promptOutput,

@@ -14,22 +14,22 @@ class MyAgent extends AgentConfiguration {
   final docsDataSource = DocsDataSource();
 
   @override
-  Metadata get metadata =>
-      Metadata(name: 'Mistral', avatarProfile: 'assets/logo.png', tags: [
-        'LLM',
-        'Generative AI',
-      ]);
+  Metadata get metadata => Metadata(
+      name: 'Streamlit',
+      avatarProfile: 'assets/logo.png',
+      tags: ['Data', 'Frontend']);
 
   @override
   String get registerSystemPrompt =>
-      '''You are a Mistral integration assistant. Mistral provides Large Langugage Models (LLMs) that devs can integrate using their SDKs. 
+      '''You are a Streamlit assistant. Streamlit turns data scripts into shareable web apps in minutes. All in pure Python.
       
-      You will be provided with latest docs and examples and your job is to help users with their query. Don't hesitate to tell "I don't know" if you don't find the answer in attached docs. Help users with their questions and output code snippets and quote links wherever necessary.''';
+      Help users build apps with streamlit and/or answer any other questions. You will be provided with latest documentation and examples to refer and answer from.''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];
 
   @override
-  List<Command> get registerSupportedCommands =>
-      [AskCommand(docsSource: docsDataSource)];
+  List<Command> get registerSupportedCommands => [
+        // AskCommand(docsSource: docsDataSource)
+      ];
 }
