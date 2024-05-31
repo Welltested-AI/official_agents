@@ -38,14 +38,14 @@ class AskCommand extends Command {
           query: '$userQuery$codeAttachment',
           dataSources: [docsSource],
           output: matchingDocuments),
-      // PromptQueryStep(
-      //   prompt:
-      //       '''You are a Mistral Integration agent. Here is the user query: $userQuery, here is a reference code snippet: $codeAttachment and some relevant documents for your reference: $matchingDocuments.
+      PromptQueryStep(
+        prompt:
+            '''You are a Mistral Integration agent. Here is the user query: $userQuery, here is a reference code snippet: $codeAttachment and some relevant documents for your reference: $matchingDocuments.
 
-      //       Answer the user's query.''',
-      //   promptOutput: promptOutput,
-      // ),
-      AppendToChatStep(value: '$matchingDocuments')
+            Answer the user's query.''',
+        promptOutput: promptOutput,
+      ),
+      AppendToChatStep(value: '$promptOutput')
     ];
   }
 }
