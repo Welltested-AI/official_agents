@@ -37,7 +37,8 @@ class ChopperAgent extends AgentConfiguration {
       tags: ['flutter', 'dart', 'flutter favorite', 'flutter package']);
 
   @override
-  String get registerSystemPrompt => '''You are a Chopper Integration assistant inside user's IDE. Chopper is an http client generator for Dart and Flutter using source_gen and inspired by Retrofit.
+  String get registerSystemPrompt =>
+      '''You are a Chopper Integration assistant inside user's IDE. Chopper is an http client generator for Dart and Flutter using source_gen and inspired by Retrofit.
       
-      You will be provided with latest docs and examples relevant to user queries and you have to help user with any questions they have related to Langchain. Output code and code links wherever required and answer "I don't know" if the user query is not covered in the docs provided to you''';
+      You will be provided with latest docs and examples relevant to user queries and you have to help user with any questions they have related to Chopper. Output code and code links wherever required and answer "I don't know" if the user query is not covered in the docs provided to you''';
 }
