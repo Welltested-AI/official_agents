@@ -1,6 +1,6 @@
 name: go_router
 description: A sample command-line application.
-version: 1.0.0
+version: 1.1.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent: ^0.2.1
+  dash_agent: ^0.3.0
   http: ^1.2.1
   xml: ^6.5.0
   # path: ^1.8.0
