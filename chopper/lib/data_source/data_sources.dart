@@ -5,7 +5,6 @@ import 'package:dash_agent/data/objects/project_data_object.dart';
 import 'package:dash_agent/data/objects/file_data_object.dart';
 import 'package:dash_agent/data/objects/web_data_object.dart';
 
-/// [DocsDataSource] indexes all the documentation related data and provides it to commands.
 class DocsDataSource extends DataSource {
   @override
   List<FileDataObject> get fileObjects => [];
@@ -31,7 +30,6 @@ class DocsDataSource extends DataSource {
       ];
 }
 
-/// [DocsDataSource] indexes all the examples related data and provides it to commands.
 class ExampleDataSource extends DataSource {
   @override
   List<FileDataObject> get fileObjects => [
@@ -49,7 +47,6 @@ class ExampleDataSource extends DataSource {
   List<WebDataObject> get webObjects => [];
 }
 
-/// [DocsDataSource] indexes all the issues and their solutions related data and provides it to commands.
 class IssuesDataSource extends DataSource {
   final List<String> issuesLinks;
 
