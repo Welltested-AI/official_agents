@@ -23,7 +23,7 @@ Future<List<String>> generateGitIssuesLink({bool closedIssues = false}) async {
   // Loop through the pages of results.
   while (issueApiUrl != null && issueLimit > issueUrls.length) {
     final response = await http.get(Uri.parse(issueApiUrl), headers: {
-      'Authorization': 'token {{your github token}}',
+      'Authorization': 'token <<Your Personal Github Token>>',
       'Accept': 'application/vnd.github+json',
       'User-Agent': 'zexross'
     });
