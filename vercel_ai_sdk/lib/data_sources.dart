@@ -19,35 +19,3 @@ class DocsDataSource extends DataSource {
             'https://vercel.com/blog/vercel-ai-sdk-3-1-modelfusion-joins-the-team')
       ];
 }
-
-class ExamplesDataSource extends DataSource {
-  ExamplesDataSource(
-    this.exampleUrls,
-  );
-  final List<String> exampleUrls;
-
-  @override
-  List<FileDataObject> get fileObjects => [];
-
-  @override
-  List<ProjectDataObject> get projectObjects => [];
-
-  @override
-  List<WebDataObject> get webObjects => [
-        ...exampleUrls.map((url) => WebDataObject.fromWebPage(url)),
-      ];
-}
-
-class ProvidersDataSource extends DataSource {
-  ProvidersDataSource(this.providerUrls);
-  final List<String> providerUrls;
-  @override
-  List<FileDataObject> get fileObjects => [];
-
-  @override
-  List<ProjectDataObject> get projectObjects => [];
-
-  @override
-  List<WebDataObject> get webObjects =>
-      [...providerUrls.map((url) => WebDataObject.fromWebPage(url))];
-}
