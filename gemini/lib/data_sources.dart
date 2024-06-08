@@ -4,24 +4,6 @@ import 'package:dash_agent/data/objects/file_data_object.dart';
 import 'package:dash_agent/data/objects/project_data_object.dart';
 import 'package:dash_agent/data/objects/web_data_object.dart';
 
-class FirebaseVertexAiDataSource extends DataSource {
-  FirebaseVertexAiDataSource(this.documentationUrls);
-  final List<String> documentationUrls;
-  @override
-  List<FileDataObject> get fileObjects => [];
-
-  @override
-  List<ProjectDataObject> get projectObjects => [];
-
-  @override
-  List<WebDataObject> get webObjects => [
-        ...documentationUrls
-            .map((url) => WebDataObject.fromWebPage('$url?platform=flutter')),
-        ...documentationUrls
-            .map((url) => WebDataObject.fromWebPage('$url?platform=web'))
-      ];
-}
-
 class GeminiApDataSource extends DataSource {
   GeminiApDataSource(this.documentationUrls);
   final List<String> documentationUrls;
@@ -47,15 +29,18 @@ class GeminiApiExamplesDataSource extends DataSource {
 
   @override
   List<WebDataObject> get webObjects => [
-        WebDataObject.fromGithub(
-            'https://github.com/google-gemini/generative-ai-js', accessToken,
-            codeFilter: CodeFilter(pathRegex: r'^samples\/.*')),
-        WebDataObject.fromGithub(
-            'https://github.com/google-gemini/cookbook', accessToken,
-            codeFilter: CodeFilter(pathRegex: r'^examples\/.*')),
-        WebDataObject.fromGithub(
-            'https://github.com/google-gemini/generative-ai-dart', accessToken,
-            codeFilter: CodeFilter(pathRegex: r'^samples\/.*'))
+        // WebDataObject.fromGithub(
+        //     'https://github.com/google-gemini/generative-ai-js', accessToken,
+        //     codeFilter: CodeFilter(pathRegex: r'^samples\/.*')),
+        // WebDataObject.fromGithub(
+        //     'https://github.com/google-gemini/cookbook', accessToken,
+        //     codeFilter: CodeFilter(pathRegex: r'^examples\/.*')),
+        // WebDataObject.fromGithub(
+        //     'https://github.com/google-gemini/generative-ai-dart', accessToken,
+        //     codeFilter: CodeFilter(pathRegex: r'^samples\/.*'),
+        //     issueFilter: IssueFilter(
+
+        //     ))
       ];
 }
 
