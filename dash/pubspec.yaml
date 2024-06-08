@@ -1,6 +1,6 @@
-name: firebase_genkit
-description: Open source framework to build, deploy, and monitor production-ready AI-powered apps.
-version: 1.0.9
+name: dash
+description: Your primary agent for any usage or coding help.
+version: 1.0.3
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent:
+  dash_agent: ^0.3.0
   # path: ^1.8.0
 
 dev_dependencies:

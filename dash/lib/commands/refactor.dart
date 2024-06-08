@@ -11,7 +11,7 @@ class RefactorCommand extends Command {
   );
 
   @override
-  String get slug => 'refactor';
+  String get slug => '/refactor';
 
   @override
   String get intent => 'Refactor your code';
@@ -29,8 +29,7 @@ class RefactorCommand extends Command {
     final promptOutput = PromptOutput();
     return [
       PromptQueryStep(
-        prompt:
-            '''You are a Flutter/Dart assistant helping user to write code.
+        prompt: '''You are a coding assistant helping user to write code.
 
 
             Please find instructions provided my users <Instructions> and the code that is need to be modified <Code> based on the provided instructions:

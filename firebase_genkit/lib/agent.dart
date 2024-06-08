@@ -2,6 +2,7 @@ import 'package:dash_agent/configuration/command.dart';
 import 'package:dash_agent/configuration/dash_agent.dart';
 import 'package:dash_agent/configuration/metadata.dart';
 import 'package:dash_agent/data/datasource.dart';
+import 'package:firebase_genkit/commands/ask.dart';
 
 import 'data_sources.dart';
 
@@ -33,7 +34,6 @@ class MyAgent extends AgentConfiguration {
       ];
 
   @override
-  List<Command> get registerSupportedCommands => [
-        // AskCommand(docsSource: docsDataSource)
-      ];
+  List<Command> get registerSupportedCommands =>
+      [AskCommand(docsDataSource: docsDataSource)];
 }

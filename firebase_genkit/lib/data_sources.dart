@@ -28,12 +28,12 @@ class ExamplesDataSource extends DataSource {
   @override
   List<WebDataObject> get webObjects => [
         //TODO: add code filter
-        WebDataObject.fromGithub(
-          'https://github.com/firebase/genkit',
-          '',
-          // codeFilter: CodeFilter(
-          //     pathRegex:
-          //         '^samples/.*') //only include files in the /sample folder of the repo
-        )
+        // WebDataObject.fromGithub(
+        //   'https://github.com/firebase/genkit',
+        //   '',
+        //   // codeFilter: CodeFilter(
+        //   //     pathRegex:
+        //   //         '^samples/.*') //only include files in the /sample folder of the repo
+        // )
       ];
 }

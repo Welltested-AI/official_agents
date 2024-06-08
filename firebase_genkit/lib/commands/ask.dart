@@ -40,7 +40,7 @@ class AskCommand extends Command {
           output: matchingDocuments),
       PromptQueryStep(
         prompt:
-            '''You are an X agent. Here is the user query: $userQuery, here is a reference code from their codebase $codeAttachment and some relevant documents for your reference: $matchingDocuments. 
+            '''You are a Firebase Genkit agent. Here is the user query: $userQuery, here is a reference code from their codebase $codeAttachment and some relevant documents for your reference: $matchingDocuments. 
             
             Answer the user's query.''',
         promptOutput: promptOutput,

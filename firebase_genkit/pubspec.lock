@@ -76,10 +76,11 @@ packages:
   dash_agent:
     dependency: "direct main"
     description:
-      path: "/Users/samyak/Documents/commanddash/commanddash/dash_agent/"
-      relative: false
-    source: path
-    version: "0.2.1"
+      name: dash_agent
+      sha256: "5f647003933a979768cad1453c2a1401a2ec3f844e94ed9ba4eb57e6cdd23be9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
   file:
     dependency: transitive
     description:

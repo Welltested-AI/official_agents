@@ -15,11 +15,10 @@ class DocumentCommand extends Command {
   final documentedCode = PromptOutput();
 
   @override
-  String get slug => 'document';
+  String get slug => '/document';
 
   @override
-  String get intent =>
-      'Generates inline documentation[code comments] for your code';
+  String get intent => 'Add inline documentation to your code';
 
   @override
   List<DashInput> get registerInputs =>
@@ -33,7 +32,7 @@ class DocumentCommand extends Command {
   List<Step> get steps => [
         PromptQueryStep(
             prompt:
-                '''You are an Flutter expert and instructor who writes professional code.
+                '''You are a coding assistant and instructor who writes professional code.
     
     Please find the user's code <Code>, additional instructional instructions <Additional Instructions>, and relevant references <References> to update existing comments or generate inline documentation if they are not already present in the user shared code.
     
@@ -49,9 +48,7 @@ class DocumentCommand extends Command {
     
     Additional Instructions: $additionalInstructions
     
-    Note:
-    1. Only share the updated code with proper comments back. Keep it as information as possible for other developers to understand.
-    2. Make sure to refer to [Effective Dart: Documentation](https://dart.dev/effective-dart/documentation) to create effective inline documentation that follow official Dart guidelines''',
+    Share the updated code with proper comments back. Keep it as informational as possible for other developers to understand.''',
             promptOutput: documentedCode),
         AppendToChatStep(value: '$documentedCode')
       ];
