@@ -1,6 +1,6 @@
-name: firebase_vertex
-description: Use Gemini APIs in your production apps with Vertex AI on Firebase.
-version: 1.0.4
+name: aws_fundamentals
+description: Based on AWS Fundamentals Blog at Hashnode
+version: 1.0.1
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,8 +8,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent:
-     path: ^0.3.0
+  dash_agent: ^0.3.0
   # path: ^1.8.0
 
 dev_dependencies:

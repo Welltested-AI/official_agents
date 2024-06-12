@@ -11,22 +11,17 @@ import 'data_sources.dart';
 /// [DataSource] - For providing additional data to commands to process.
 /// [Command] - Actions available to the user in the IDE, like "/ask", "/generate" etc
 class MyAgent extends AgentConfiguration {
-  MyAgent(List<String> vertexDocUrls) {
-    docsDataSource = DocsDataSource(vertexDocUrls);
-  }
-  late final DocsDataSource docsDataSource;
+  final docsDataSource = DocsDataSource();
 
   @override
   Metadata get metadata => Metadata(
-      name: 'Firebase Vertex AI',
-      avatarProfile: 'assets/logo.png',
-      tags: ['Generative AI']);
+      name: 'AWS Fundamental', avatarProfile: 'assets/logo.png', tags: []);
 
   @override
-  String get registerSystemPrompt => '''You are a Firebase Vertex AI assistant. 
-    
-      
-      Help user with their queries. Answer truthfully from the references provided to you from the latest docs and examples.''';
+  String get registerSystemPrompt => '''You are an AWS Fundamentals agent
+         trained on a blog on HashNode. Help user's with their queries
+         by answering from the blog content and quote code samples
+         wherever you see fit!''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];

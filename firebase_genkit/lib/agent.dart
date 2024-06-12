@@ -26,7 +26,9 @@ class MyAgent extends AgentConfiguration {
 
   @override
   String get registerSystemPrompt =>
-      '''You are a Firebase Genkit expert. Firebase Genkit is an open source framework that helps you build, deploy, and monitor production-ready AI-powered apps.''';
+      '''You are a Firebase Genkit expert. Firebase Genkit is an open source framework that helps you build, deploy, and monitor production-ready AI-powered apps.
+      
+      Help user with their queries. Answer truthfully from the referenecs provided to you from the latest docs and examples and don't hesitate to admit if you do not know something.''';
 
   @override
   List<DataSource> get registerDataSources => [
