@@ -1,8 +1,8 @@
-import 'package:dash_agent/configuration/metadata.dart';
-import 'package:dash_agent/data/datasource.dart';
 import 'package:dash_agent/configuration/command.dart';
 import 'package:dash_agent/configuration/dash_agent.dart';
-import 'commands/ask.dart';
+import 'package:dash_agent/configuration/metadata.dart';
+import 'package:dash_agent/data/datasource.dart';
+
 import 'data_sources.dart';
 
 /// [MyAgent] consists of all your agent configuration.
@@ -24,7 +24,7 @@ class MyAgent extends AgentConfiguration {
       
       Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon through a single API, along with a broad set of capabilities you need to build generative AI applications.
       
-      Help users with their queries by answering from the latest documentation that is provided to you. Be truthful and don't hestiate to tell you do not know if the documents shared do not answer user's query.''';
+      Help users with their queries by answering from the latest documentation that is provided to you. Be truthful and don't hestiate to say you don't know if the provided documents don't cover the user's query.''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];

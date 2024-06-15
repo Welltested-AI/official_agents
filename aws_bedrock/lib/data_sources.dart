@@ -7,6 +7,7 @@ import 'package:dash_agent/data/objects/web_data_object.dart';
 
 /// [DocsDataSource] indexes all the documentation related data and provides it to commands.
 class DocsDataSource extends DataSource {
+  final accessToken = '';
   @override
   List<FileDataObject> get fileObjects => [];
 
@@ -25,5 +26,28 @@ class DocsDataSource extends DataSource {
             'https://community.aws/posts/amazon-bedrock-developing-java-applications'),
         WebDataObject.fromWebPage(
             'https://community.aws/posts/amazon-bedrock-quick-start'),
+        WebDataObject.fromGithub(
+            'https://github.com/aws-samples/amazon-bedrock-workshop',
+            accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/dotnet-fm-playgroundhttps://github.com/build-on-aws/dotnet-fm-playground',
+            accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/amazon-bedrock-go-sdk-examples',
+            accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/amazon-bedrock-java-examples',
+            accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/java-fm-playground', accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/llm-rag-vectordb-python',
+            accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/python-fm-playground',
+            accessToken),
+        WebDataObject.fromGithub(
+            'https://github.com/build-on-aws/elevating-customer-support-with-rag-langchain-agent-bedrock-dynamodb-and-kendra',
+            accessToken)
       ];
 }
