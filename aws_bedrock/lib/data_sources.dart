@@ -30,9 +30,6 @@ class DocsDataSource extends DataSource {
             'https://github.com/aws-samples/amazon-bedrock-workshop',
             accessToken),
         WebDataObject.fromGithub(
-            'https://github.com/build-on-aws/dotnet-fm-playgroundhttps://github.com/build-on-aws/dotnet-fm-playground',
-            accessToken),
-        WebDataObject.fromGithub(
             'https://github.com/build-on-aws/amazon-bedrock-go-sdk-examples',
             accessToken),
         WebDataObject.fromGithub(

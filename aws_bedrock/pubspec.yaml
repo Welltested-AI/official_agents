@@ -1,6 +1,6 @@
 name: aws_bedrock
 description: Fully managed service by Amazon that offers a choice of high-performing foundation models
-version: 1.0.0
+version: 1.0.3
 # repository: https://github.com/my_org/my_repo
 
 environment:
