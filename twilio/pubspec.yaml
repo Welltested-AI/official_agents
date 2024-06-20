@@ -1,5 +1,5 @@
-name: aws_bedrock
-description: Fully managed service by Amazon that offers a choice of high-performing foundation models
+name: twilio
+description: Twilio Communication - Messaging, Voice, Whatsapp and more
 version: 1.0.4
 # repository: https://github.com/my_org/my_repo
 

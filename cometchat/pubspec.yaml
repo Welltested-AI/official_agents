@@ -1,6 +1,6 @@
-name: aws_bedrock
-description: Fully managed service by Amazon that offers a choice of high-performing foundation models
-version: 1.0.4
+name: cometchat
+description: Everything you need to power your in-app communication
+version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
