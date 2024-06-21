@@ -15,6 +15,10 @@ class DocsDataSource extends DataSource {
 
   @override
   List<WebDataObject> get webObjects => [
-        WebDataObject.fromSiteMap('https://www.mirrorfly.com/docs/sitemap.xml'),
+        WebDataObject.fromSiteMap('https://talkjs.com/sitemap.xml'),
+        WebDataObject.fromWebPage('https://pub.dev/packages/talkjs_flutter'),
+        WebDataObject.fromWebPage('https://www.npmjs.com/package/talkjs')
+        // WebDataObject.fromGithub('https://github.com/talkjs/talkjs-examples',
+        //     '')
       ];
 }

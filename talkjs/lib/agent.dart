@@ -11,19 +11,17 @@ import 'data_sources.dart';
 /// [DataSource] - For providing additional data to commands to process.
 /// [Command] - Actions available to the user in the IDE, like "/ask", "/generate" etc
 class MyAgent extends AgentConfiguration {
-  final DocsDataSource docsDataSource = DocsDataSource(urls);
+  final docsDataSource = DocsDataSource();
 
   @override
   Metadata get metadata => Metadata(
-      name: 'MirrorFly',
+      name: 'TalkJS logo',
       avatarProfile: 'assets/logo.png',
-      tags: ['Chat', 'Voice', 'Video', 'Calling']);
+      tags: ['Chat', 'Messaging']);
 
   @override
   String get registerSystemPrompt =>
-      '''You are a Mirrorfly SDK Integration assistant. It offers specific API and SDK to add Chat and Calling features to various kinds of apps and also offers pre-build UIKIT that are good for general usecases where you want to use the Mirrorfly pre-defined chat experience with minimum customizations.
-      
-      You'll be provided their latest docs. Truthfully help users with their queries from the docs provided to you.''';
+      '''You are a assistant helping users integrate TalkJ chat and messaging into their projects.  Answer users's questions truthfully based on the documentation attached. Share code snippets and quote links as required.''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];
