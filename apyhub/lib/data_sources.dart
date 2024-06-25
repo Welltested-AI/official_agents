@@ -14,6 +14,8 @@ class DocsDataSource extends DataSource {
   List<ProjectDataObject> get projectObjects => [];
 
   @override
-  List<WebDataObject> get webObjects =>
-      [WebDataObject.fromSiteMap('https://apyhub.com/server-sitemap.xml')];
+  List<WebDataObject> get webObjects => [
+        WebDataObject.fromSiteMap('https://apyhub.com/sitemap-0.xml'),
+        WebDataObject.fromSiteMap('https://apyhub.com/server-sitemap.xml')
+      ];
 }

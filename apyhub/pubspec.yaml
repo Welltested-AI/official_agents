@@ -1,6 +1,6 @@
 name: apyhub
 description: All in one API platform to build better and ship faster
-version: 1.0.7
+version: 1.0.8
 # repository: https://github.com/my_org/my_repo
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  dash_agent: ^0.2.1
+  dash_agent: ^0.3.0
   # path: ^1.8.0
 
 dev_dependencies:
