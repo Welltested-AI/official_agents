@@ -79,7 +79,7 @@ packages:
       path: "/Users/samyak/Documents/commanddash/commanddash/dash_agent/"
       relative: false
     source: path
-    version: "0.2.1"
+    version: "0.3.0"
   file:
     dependency: transitive
     description:
