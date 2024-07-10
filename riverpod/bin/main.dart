@@ -31,8 +31,8 @@ Future<List<String>> generateGitIssuesLink({bool closedIssues = false}) async {
 
   // Loop through the pages of results.
   while (issueApiUrl != null && issueLimit > issueUrls.length) {
-    final response = await http.get(Uri.parse(issueApiUrl),
-        headers: {"Authorization": "Bearer <github_pat>"});
+    final response = await http
+        .get(Uri.parse(issueApiUrl), headers: {"Authorization": "Bearer <t>"});
 
     if (response.statusCode == 200) {
       final responseBody = jsonDecode(response.body).cast<Map>();

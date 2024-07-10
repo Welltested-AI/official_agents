@@ -1,6 +1,6 @@
-name: talkjs
-description: Chat API with pre-built UI and notifications included
-version: 1.0.2
+name: composio
+description: Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:

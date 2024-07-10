@@ -1,6 +1,6 @@
-name: talkjs
-description: Chat API with pre-built UI and notifications included
-version: 1.0.2
+name: flame_engine
+description: Flame is a game engine built on top of Flutter. It runs on mobile, desktop, and web.
+version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:

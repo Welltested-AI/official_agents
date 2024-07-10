@@ -15,13 +15,11 @@ class MyAgent extends AgentConfiguration {
 
   @override
   Metadata get metadata => Metadata(
-      name: 'Mesibo',
-      avatarProfile: 'assets/logo.png',
-      tags: ['Chat', 'Voice', 'Video']);
+      name: 'Discord.js', avatarProfile: 'assets/logo.png', tags: ['bots']);
 
   @override
   String get registerSystemPrompt =>
-      '''You are an Mesibo Integration assistant. Help users with their queries by truthfully and strictly answering from the information provided to you. Don't hesitate to quote links wherever necessary.''';
+      '''Help users build bots with Discord.js.''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];

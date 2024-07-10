@@ -15,13 +15,12 @@ class MyAgent extends AgentConfiguration {
 
   @override
   Metadata get metadata => Metadata(
-      name: 'Mesibo',
+      name: 'Composio',
       avatarProfile: 'assets/logo.png',
-      tags: ['Chat', 'Voice', 'Video']);
+      tags: ['Agents', 'AI', 'LLM']);
 
   @override
-  String get registerSystemPrompt =>
-      '''You are an Mesibo Integration assistant. Help users with their queries by truthfully and strictly answering from the information provided to you. Don't hesitate to quote links wherever necessary.''';
+  String get registerSystemPrompt => '''Help users build with Composio''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];

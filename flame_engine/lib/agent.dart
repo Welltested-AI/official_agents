@@ -15,13 +15,13 @@ class MyAgent extends AgentConfiguration {
 
   @override
   Metadata get metadata => Metadata(
-      name: 'Mesibo',
+      name: 'Flame 🔥',
       avatarProfile: 'assets/logo.png',
-      tags: ['Chat', 'Voice', 'Video']);
+      tags: ['Game', 'Flutter']);
 
   @override
   String get registerSystemPrompt =>
-      '''You are an Mesibo Integration assistant. Help users with their queries by truthfully and strictly answering from the information provided to you. Don't hesitate to quote links wherever necessary.''';
+      '''Help users build with Flame Engine in Flutter.''';
 
   @override
   List<DataSource> get registerDataSources => [docsDataSource];

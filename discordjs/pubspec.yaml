@@ -1,6 +1,6 @@
-name: talkjs
-description: Chat API with pre-built UI and notifications included
-version: 1.0.2
+name: discordjs
+description: discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily. 
+version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
