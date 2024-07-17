@@ -1,6 +1,6 @@
-name: flame_engine
-description: Flame is a game engine built on top of Flutter. It runs on mobile, desktop, and web.
-version: 1.0.1
+name: vanna_ai
+description:  Chat with your SQL database. Accurate Text-to-SQL Generation via LLMs using RAG.
+version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:

@@ -16,19 +16,16 @@ class MyAgent extends AgentConfiguration {
     docsDataSource = DocsDataSource(docUrls);
   }
   late final DocsDataSource docsDataSource;
-  final ExamplesDataSource examplesDataSource = ExamplesDataSource();
 
   @override
   Metadata get metadata => Metadata(
       name: 'Firebase Genkit',
       avatarProfile: 'assets/logo.png',
-      tags: ['Generative AI']);
+      tags: ['Generative AI', 'Langchain']);
 
   @override
   String get registerSystemPrompt =>
-      '''You are a Firebase Genkit expert. Firebase Genkit is an open source framework that helps you build, deploy, and monitor production-ready AI-powered apps.
-      
-      Help user with their queries. Answer truthfully from the referenecs provided to you from the latest docs and examples and don't hesitate to admit if you do not know something.''';
+      '''Help users build with Firebase Genkit''';
 
   @override
   List<DataSource> get registerDataSources => [
@@ -36,6 +33,5 @@ class MyAgent extends AgentConfiguration {
       ];
 
   @override
-  List<Command> get registerSupportedCommands =>
-      [AskCommand(docsDataSource: docsDataSource)];
+  List<Command> get registerSupportedCommands => [];
 }
